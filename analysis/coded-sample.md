@@ -9,25 +9,25 @@ Purposive sampling across the framing spectrum within each institution type, wit
 | # | Institution | Type | Ratio | Words | Nation |
 |---|------------|------|-------|-------|--------|
 | 1 | Cardiff University | Russell Group | 0.035 | 743 | Wales |
-| 2 | University of Southampton | Russell Group | 0.077 | 1,112 | England |
-| 3 | University of Glasgow | Russell Group | 0.250 | 2,407 | Scotland |
-| 4 | King's College London | Russell Group | 0.269 | 2,309 | England |
-| 5 | University of Liverpool | Russell Group | 0.329 | 2,596 | England |
-| 6 | Durham University | Russell Group | 0.488 | 9,202 | England |
-| 7 | University of Stirling | Pre-1992 | 0.042 | 984 | Scotland |
-| 8 | University of East Anglia | Pre-1992 | 0.148 | 5,819 | England |
+| 2 | University of Southampton | Russell Group | 0.081 | 1,112 | England |
+| 3 | University of Glasgow | Russell Group | 0.262 | 2,407 | Scotland |
+| 4 | King's College London | Russell Group | 0.266 | 2,309 | England |
+| 5 | University of Liverpool | Russell Group | 0.321 | 2,596 | England |
+| 6 | Durham University | Russell Group | 0.465 | 9,202 | England |
+| 7 | University of Stirling | Pre-1992 | 0.036 | 984 | Scotland |
+| 8 | University of East Anglia | Pre-1992 | 0.162 | 5,819 | England |
 | 9 | Goldsmiths University of London | Pre-1992 | 0.304 | 5,218 | England |
-| 10 | Loughborough University | Pre-1992 | 0.400 | 848 | England |
+| 10 | Loughborough University | Pre-1992 | 0.364 | 848 | England |
 | 11 | Edge Hill University | Post-1992 | 0.000 | 956 | England |
-| 12 | Coventry University | Post-1992 | 0.077 | 627 | England |
-| 13 | Canterbury Christ Church University | Post-1992 | 0.159 | 5,629 | England |
-| 14 | Edinburgh Napier University | Post-1992 | 0.248 | 3,238 | Scotland |
-| 15 | Birmingham City University | Post-1992 | 0.546 | 3,808 | England |
+| 12 | Coventry University | Post-1992 | 0.074 | 627 | England |
+| 13 | Canterbury Christ Church University | Post-1992 | 0.150 | 5,629 | England |
+| 14 | Edinburgh Napier University | Post-1992 | 0.228 | 3,238 | Scotland |
+| 15 | Birmingham City University | Post-1992 | 0.545 | 3,808 | England |
 | 16 | University of Winchester | Post-1992 | 0.669 | 8,941 | England |
-| 17 | Arts University Plymouth | Specialist | 0.023 | 1,027 | England |
-| 18 | Arts University Bournemouth | Specialist | 0.129 | 1,827 | England |
-| 19 | Courtauld Institute of Art | Specialist | 0.773 | 3,251 | England |
-| 20 | Harper Adams University | Specialist | 0.773 | 6,219 | England |
+| 17 | Arts University Plymouth | Specialist | 0.022 | 1,027 | England |
+| 18 | Arts University Bournemouth | Specialist | 0.090 | 1,827 | England |
+| 19 | Courtauld Institute of Art | Specialist | 0.791 | 3,251 | England |
+| 20 | Harper Adams University | Specialist | 0.782 | 6,219 | England |
 
 ---
 

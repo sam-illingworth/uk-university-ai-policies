@@ -8,7 +8,7 @@
 
 ## Supplement A: Keyword Vocabularies
 
-### Detection/policing frame (31 terms)
+### Detection/policing frame (34 terms)
 
 | Keyword | Rationale |
 |---------|-----------|
@@ -47,7 +47,7 @@
 | not allowed | Restrictive/compliance language (bigram) |
 | zero tolerance | Punitive stance (bigram) |
 
-### Education/empowerment frame (37 terms)
+### Education/empowerment frame (43 terms)
 
 | Keyword | Rationale |
 |---------|-----------|
