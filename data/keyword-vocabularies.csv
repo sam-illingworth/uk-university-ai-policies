@@ -1,0 +1,78 @@
+keyword,frame,rationale
+plagiarism,detection,Direct reference to academic misconduct
+detection,detection,Surveillance and policing language
+misconduct,detection,Formal disciplinary framing
+penalty,detection,Punitive consequence
+penalties,detection,Punitive consequence (plural)
+turnitin,detection,Named detection software
+contract cheating,detection,Formal misconduct category
+breach,detection,Regulatory/compliance language
+disciplinary,detection,Formal misconduct process
+sanction,detection,Punitive consequence
+sanctions,detection,Punitive consequence (plural)
+suspicious,detection,Surveillance language
+investigation,detection,Formal misconduct process
+academic integrity,detection,"Integrity-as-enforcement framing (note: can be educational, but predominantly appears in misconduct contexts in this corpus)"
+collusion,detection,Formal misconduct category
+unfair,detection,Misconduct-adjacent language
+cheat,detection,Direct misconduct language
+cheating,detection,Direct misconduct language
+detect,detection,Surveillance language
+detected,detection,Surveillance language
+offence,detection,Formal misconduct category
+offences,detection,Formal misconduct category (plural)
+punishment,detection,Punitive consequence
+prohibit,detection,Restrictive/compliance language
+prohibited,detection,Restrictive/compliance language
+violation,detection,Regulatory/compliance language
+unauthorised,detection,Restrictive/compliance language
+unauthorized,detection,Restrictive/compliance language (US spelling variant)
+declare,detection,Transparency-as-surveillance mechanism
+declaration,detection,Transparency-as-surveillance mechanism
+disclose,detection,Transparency-as-surveillance mechanism
+not permitted,detection,Restrictive/compliance language (bigram)
+not allowed,detection,Restrictive/compliance language (bigram)
+zero tolerance,detection,Punitive stance (bigram)
+literacy,education,Critical literacy framing
+critical thinking,education,Higher-order cognitive skill
+pedagogy,education,Teaching and learning framing
+skill,education,Competence development
+skills,education,Competence development (plural)
+curriculum,education,Pedagogical design
+learning,education,Core educational concept
+opportunity,education,Positive framing of AI engagement
+opportunities,education,Positive framing of AI engagement (plural)
+creativity,education,Creative capacity development
+creative,education,Creative capacity development
+agency,education,Student autonomy and choice
+assessment design,education,Pedagogical response to AI (bigram)
+co-creation,education,Participatory pedagogy
+student voice,education,Student participation and agency (bigram)
+dialogue,education,Two-way communication
+empower,education,Agency and capacity building
+develop,education,Growth and learning framing
+development,education,Growth and learning framing
+competence,education,Skill/capacity framing
+capability,education,Skill/capacity framing
+ethical,education,Values-based engagement
+ethics,education,Values-based engagement
+responsible,education,Values-based engagement
+responsibility,education,Values-based engagement
+reflection,education,Metacognitive practice
+reflective,education,Metacognitive practice
+critical,education,Higher-order thinking
+evaluate,education,Higher-order thinking
+understand,education,Comprehension and meaning-making
+understanding,education,Comprehension and meaning-making
+engage,education,Active participation
+engagement,education,Active participation
+support,education,Institutional facilitation
+guidance,education,Advisory framing
+learn,education,Core educational concept
+teach,education,Core educational concept
+teaching,education,Core educational concept
+practice,education,Applied learning
+practices,education,Applied learning (plural)
+digital literacy,education,Broader literacy framing (bigram)
+information literacy,education,Broader literacy framing (bigram)
+media literacy,education,Broader literacy framing (bigram)

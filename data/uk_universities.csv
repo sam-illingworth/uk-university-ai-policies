@@ -1,0 +1,164 @@
+institution_name,category,subcategory,nation,russell_group,notes
+University of Oxford,Pre-1992,Ancient,England,Yes,Founded c. 1096
+University of Cambridge,Pre-1992,Ancient,England,Yes,Founded 1209
+University of St Andrews,Pre-1992,Ancient,Scotland,No,Founded 1413
+University of Glasgow,Pre-1992,Ancient,Scotland,Yes,Founded 1451
+University of Aberdeen,Pre-1992,Ancient,Scotland,No,Founded 1495
+University of Edinburgh,Pre-1992,Ancient,Scotland,Yes,Founded 1583
+Durham University,Pre-1992,Ancient,England,Yes,Founded 1832
+University of London,Pre-1992,Ancient,England,No,Founded 1826; federal university
+Queen's University Belfast,Pre-1992,Redbrick,Northern Ireland,Yes,Founded 1845
+University of Manchester,Pre-1992,Redbrick,England,Yes,Founded 1824
+University of Birmingham,Pre-1992,Redbrick,England,Yes,Founded 1825
+University of Liverpool,Pre-1992,Redbrick,England,Yes,Founded 1881
+University of Leeds,Pre-1992,Redbrick,England,Yes,Founded 1874
+University of Sheffield,Pre-1992,Redbrick,England,Yes,Founded 1828
+University of Bristol,Pre-1992,Redbrick,England,Yes,Founded 1876
+University of Nottingham,Pre-1992,Redbrick,England,Yes,Founded 1881
+University of Southampton,Pre-1992,Redbrick,England,Yes,Founded 1862
+University of Exeter,Pre-1992,Redbrick,England,Yes,Founded 1855
+University of Leicester,Pre-1992,Redbrick,England,No,Founded 1921
+University of Reading,Pre-1992,Redbrick,England,No,Founded 1892
+Newcastle University,Pre-1992,Redbrick,England,Yes,Founded 1834
+Cardiff University,Pre-1992,Redbrick,Wales,Yes,Founded 1883
+Swansea University,Pre-1992,Redbrick,Wales,No,Founded 1920
+Aberystwyth University,Pre-1992,Pre-1992 Other,Wales,No,Founded 1872
+Bangor University,Pre-1992,Pre-1992 Other,Wales,No,Founded 1884
+University of Dundee,Pre-1992,Pre-1992 Other,Scotland,No,Founded 1881
+University of Hull,Pre-1992,Pre-1992 Other,England,No,Founded 1927
+Keele University,Pre-1992,Plate Glass,England,No,Founded 1949
+University of Sussex,Pre-1992,Plate Glass,England,No,Founded 1961
+University of East Anglia,Pre-1992,Plate Glass,England,No,Founded 1963
+University of York,Pre-1992,Plate Glass,England,Yes,Founded 1963
+Lancaster University,Pre-1992,Plate Glass,England,No,Founded 1964
+University of Essex,Pre-1992,Plate Glass,England,No,Founded 1964
+University of Warwick,Pre-1992,Plate Glass,England,Yes,Founded 1965
+University of Kent,Pre-1992,Plate Glass,England,No,Founded 1965
+University of Bath,Pre-1992,Former CAT,England,No,Founded 1966; formerly Bristol CAT
+University of Surrey,Pre-1992,Former CAT,England,No,Founded 1966; formerly Battersea CAT
+Aston University,Pre-1992,Former CAT,England,No,Founded 1966; formerly Birmingham CAT
+Brunel University London,Pre-1992,Former CAT,England,No,Founded 1966; formerly Acton CAT
+Loughborough University,Pre-1992,Former CAT,England,No,Founded 1966; formerly Loughborough CAT
+City St George's University of London,Pre-1992,Former CAT,England,No,Founded 1966 as City University (formerly Northampton CAT); merged with St George's 2024
+University of Bradford,Pre-1992,Former CAT,England,No,Founded 1966; formerly Bradford Institute of Technology
+University of Salford,Pre-1992,Former CAT,England,No,Founded 1967; formerly Royal Technical College Salford
+University of Strathclyde,Pre-1992,Pre-1992 Other,Scotland,No,Founded 1796; became university 1964
+Heriot-Watt University,Pre-1992,Pre-1992 Other,Scotland,No,Founded 1821; became university 1966
+University of Stirling,Pre-1992,Pre-1992 Other,Scotland,No,Founded 1967
+University College London,Pre-1992,Pre-1992 Other,England,Yes,Founded 1826; part of University of London
+King's College London,Pre-1992,Pre-1992 Other,England,Yes,Founded 1829; part of University of London
+Imperial College London,Pre-1992,Pre-1992 Other,England,Yes,Founded 1907; independent from UoL 2007
+London School of Economics and Political Science,Pre-1992,Pre-1992 Other,England,Yes,Founded 1895; part of University of London
+Queen Mary University of London,Pre-1992,Pre-1992 Other,England,Yes,Founded 1785; part of University of London
+Royal Holloway University of London,Pre-1992,Pre-1992 Other,England,No,Founded 1879; part of University of London
+SOAS University of London,Pre-1992,Pre-1992 Other,England,No,Founded 1916; part of University of London
+Goldsmiths University of London,Pre-1992,Pre-1992 Other,England,No,Founded 1891; part of University of London
+Birkbeck University of London,Pre-1992,Pre-1992 Other,England,No,Founded 1823; part of University of London
+Cranfield University,Pre-1992,Pre-1992 Other,England,No,Founded 1946; postgraduate only
+The Open University,Pre-1992,Pre-1992 Other,England,No,Founded 1969; distance learning
+Anglia Ruskin University,Post-1992,Former Polytechnic,England,No,Formerly Anglia Polytechnic
+Birmingham City University,Post-1992,Former Polytechnic,England,No,Formerly Birmingham Polytechnic
+University of Brighton,Post-1992,Former Polytechnic,England,No,Formerly Brighton Polytechnic
+Bournemouth University,Post-1992,Former Polytechnic,England,No,Formerly Bournemouth Polytechnic
+University of Central Lancashire,Post-1992,Former Polytechnic,England,No,Formerly Lancashire Polytechnic
+Coventry University,Post-1992,Former Polytechnic,England,No,Formerly Coventry Polytechnic
+De Montfort University,Post-1992,Former Polytechnic,England,No,Formerly Leicester Polytechnic
+University of East London,Post-1992,Former Polytechnic,England,No,Formerly Polytechnic of East London
+University of Greenwich,Post-1992,Former Polytechnic,England,No,Formerly Thames Polytechnic
+University of Hertfordshire,Post-1992,Former Polytechnic,England,No,Formerly Hatfield Polytechnic
+University of Huddersfield,Post-1992,Former Polytechnic,England,No,Formerly Huddersfield Polytechnic
+Kingston University,Post-1992,Former Polytechnic,England,No,Formerly Kingston Polytechnic
+Leeds Beckett University,Post-1992,Former Polytechnic,England,No,Formerly Leeds Polytechnic
+University of Lincoln,Post-1992,Former Polytechnic,England,No,Formerly Humberside Polytechnic
+Liverpool John Moores University,Post-1992,Former Polytechnic,England,No,Formerly Liverpool Polytechnic
+London Metropolitan University,Post-1992,Former Polytechnic,England,No,Merger of City of London Poly and Polytechnic of North London
+London South Bank University,Post-1992,Former Polytechnic,England,No,Formerly South Bank Polytechnic
+Manchester Metropolitan University,Post-1992,Former Polytechnic,England,No,Formerly Manchester Polytechnic
+Middlesex University,Post-1992,Former Polytechnic,England,No,Formerly Middlesex Polytechnic
+Northumbria University,Post-1992,Former Polytechnic,England,No,Formerly Newcastle Polytechnic
+Nottingham Trent University,Post-1992,Former Polytechnic,England,No,Formerly Nottingham Polytechnic
+Oxford Brookes University,Post-1992,Former Polytechnic,England,No,Formerly Oxford Polytechnic
+University of Plymouth,Post-1992,Former Polytechnic,England,No,Formerly Polytechnic South West
+University of Portsmouth,Post-1992,Former Polytechnic,England,No,Formerly Portsmouth Polytechnic
+Sheffield Hallam University,Post-1992,Former Polytechnic,England,No,Formerly Sheffield Polytechnic
+University of Staffordshire,Post-1992,Former Polytechnic,England,No,Formerly Staffordshire Polytechnic
+University of Sunderland,Post-1992,Former Polytechnic,England,No,Formerly Sunderland Polytechnic
+Teesside University,Post-1992,Former Polytechnic,England,No,Formerly Teesside Polytechnic
+University of the West of England,Post-1992,Former Polytechnic,England,No,Formerly Bristol Polytechnic
+University of Westminster,Post-1992,Former Polytechnic,England,No,Formerly Polytechnic of Central London
+University of Wolverhampton,Post-1992,Former Polytechnic,England,No,Formerly Wolverhampton Polytechnic
+University of Derby,Post-1992,Former Polytechnic,England,No,Formerly Derbyshire College of Higher Education
+University of South Wales,Post-1992,Former Polytechnic,Wales,No,Formerly Polytechnic of Wales; merged with University of Glamorgan 2013
+Cardiff Metropolitan University,Post-1992,Former Polytechnic,Wales,No,Formerly South Glamorgan Institute/UWIC
+Glasgow Caledonian University,Post-1992,Former Central Institution,Scotland,No,Formerly Glasgow Polytechnic and Queen's College Glasgow
+Robert Gordon University,Post-1992,Former Central Institution,Scotland,No,Formerly Robert Gordon Institute of Technology
+Abertay University,Post-1992,Former Central Institution,Scotland,No,Formerly Dundee Institute of Technology
+Edinburgh Napier University,Post-1992,Former Central Institution,Scotland,No,Formerly Napier Polytechnic
+Queen Margaret University,Post-1992,Former Central Institution,Scotland,No,Formerly Queen Margaret College
+University of the West of Scotland,Post-1992,Former Central Institution,Scotland,No,Formerly Paisley College of Technology
+University of Greater Manchester,Post-1992,Post-2000 University,England,No,Formerly University of Bolton; renamed 2025
+University of Bedfordshire,Post-1992,Post-2000 University,England,No,Formerly University of Luton; gained university status 1993
+Bath Spa University,Post-1992,Post-2000 University,England,No,Formerly Bath College of HE; university status 2005
+Canterbury Christ Church University,Post-1992,Post-2000 University,England,No,University status 2005
+University of Chester,Post-1992,Post-2000 University,England,No,University status 2005
+University of Chichester,Post-1992,Post-2000 University,England,No,University status 2005
+Edge Hill University,Post-1992,Post-2000 University,England,No,University status 2006
+University of Gloucestershire,Post-1992,Post-2000 University,England,No,University status 2001
+Liverpool Hope University,Post-1992,Post-2000 University,England,No,University status 2005
+University of the Northampton,Post-1992,Post-2000 University,England,No,University status 2005
+University of Roehampton,Post-1992,Post-2000 University,England,No,University status 2004
+University of Winchester,Post-1992,Post-2000 University,England,No,University status 2005
+York St John University,Post-1992,Post-2000 University,England,No,University status 2006
+University of Worcester,Post-1992,Post-2000 University,England,No,University status 2005
+University of Cumbria,Post-1992,Post-2000 University,England,No,University status 2007
+University of Suffolk,Post-1992,Post-2000 University,England,No,University status 2016
+Solent University,Post-1992,Post-2000 University,England,No,Formerly Southampton Solent University; university status 2005
+Leeds Trinity University,Post-1992,Post-2000 University,England,No,University status 2012
+Lincoln Bishop University,Post-1992,Post-2000 University,England,No,Formerly Bishop Grosseteste University; renamed 2025
+St Mary's University Twickenham,Post-1992,Post-2000 University,England,No,University status 2014
+Plymouth Marjon University,Post-1992,Post-2000 University,England,No,University status 2012
+Buckinghamshire New University,Post-1992,Post-2000 University,England,No,University status 2007
+University College Birmingham,Post-1992,Post-2000 University,England,No,University status as UC
+University of West London,Post-1992,Post-2000 University,England,No,Formerly Thames Valley University; university status 2004
+Ravensbourne University London,Post-1992,Post-2000 University,England,No,University status 2018
+Hartpury University,Post-1992,Post-2000 University,England,No,University status 2018
+Falmouth University,Post-1992,Post-2000 University,England,No,University status 2012
+Wrexham University,Post-1992,Post-2000 University,Wales,No,Formerly Wrexham Glyndwr University
+University of Wales Trinity Saint David,Post-1992,Post-2000 University,Wales,No,Merger of University of Wales Lampeter and Trinity University College
+University of the Highlands and Islands,Post-1992,Post-2000 University,Scotland,No,University status 2011
+Ulster University,Post-1992,Post-1992 Other,Northern Ireland,No,Formerly Ulster Polytechnic merged with New University of Ulster 1984
+University of the Arts London,Specialist,Arts and Creative,England,No,Federal university of 6 art colleges
+University for the Creative Arts,Specialist,Arts and Creative,England,No,University status 2008
+Arts University Bournemouth,Specialist,Arts and Creative,England,No,University status 2012
+Arts University Plymouth,Specialist,Arts and Creative,England,No,Formerly Plymouth College of Art; university status 2022
+Norwich University of the Arts,Specialist,Arts and Creative,England,No,University status 2012
+Leeds Arts University,Specialist,Arts and Creative,England,No,University status 2017
+Glasgow School of Art,Specialist,Arts and Creative,Scotland,No,Founded 1845; degree awarding powers
+Royal College of Art,Specialist,Arts and Creative,England,No,Postgraduate only; founded 1837
+Royal College of Music,Specialist,Conservatoire,England,No,Founded 1882
+Royal Academy of Music,Specialist,Conservatoire,England,No,Founded 1822; part of University of London
+Royal Northern College of Music,Specialist,Conservatoire,England,No,Founded 1973
+Royal Conservatoire of Scotland,Specialist,Conservatoire,Scotland,No,Founded 1847
+Trinity Laban Conservatoire of Music and Dance,Specialist,Conservatoire,England,No,Founded 2005 (merger)
+Leeds Conservatoire,Specialist,Conservatoire,England,No,Part of Luminate Education Group
+Northern School of Contemporary Dance,Specialist,Conservatoire,England,No,Part of Conservatoire for Dance and Drama
+Royal Central School of Speech and Drama,Specialist,Conservatoire,England,No,Part of University of London
+Guildhall School of Music and Drama,Specialist,Conservatoire,England,No,Founded 1880; City of London
+Liverpool Institute for Performing Arts,Specialist,Conservatoire,England,No,Founded 1996
+Courtauld Institute of Art,Specialist,Specialist Other,England,No,Part of University of London
+London School of Hygiene and Tropical Medicine,Specialist,Specialist Other,England,No,Part of University of London; postgraduate only
+Liverpool School of Tropical Medicine,Specialist,Specialist Other,England,No,Founded 1898; degree awarding powers
+Royal Agricultural University,Specialist,Specialist Other,England,No,Founded 1845
+Royal Veterinary College,Specialist,Specialist Other,England,No,Part of University of London
+Harper Adams University,Specialist,Specialist Other,England,No,Agriculture and land management; university status 2012
+Scotland's Rural College,Specialist,Specialist Other,Scotland,No,Land-based education
+London Business School,Specialist,Specialist Other,England,No,Part of University of London; postgraduate only
+School of Advanced Study University of London,Specialist,Specialist Other,England,No,Part of University of London; postgraduate research
+University of Buckingham,Specialist,Private,England,No,Founded 1976; UK's first private university
+University of Law,Specialist,Private,England,No,University status 2012; private
+BPP University,Specialist,Private,England,No,University status 2013; private
+Regent's University London,Specialist,Private,England,No,University status 2013; private
+Richmond The American International University in London,Specialist,Private,England,No,Private; US and UK accredited
+European School of Economics,Specialist,Private,England,No,Private institution
+Walbrook Institute London,Specialist,Private,England,No,Private institution
+University of Wales,Pre-1992,Pre-1992 Other,Wales,No,Federal university; largely ceremonial role now
