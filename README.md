@@ -2,13 +2,13 @@
 
 The first systematic analysis of how UK universities frame artificial intelligence in institutional policy.
 
-This repository contains the complete data, method, and findings from a study of 97 AI policies across 163 UK higher education institutions. The study combines computational keyword analysis with qualitative coding of a stratified sample of 20 policies.
+This repository contains the complete data, method, and findings from a study of 96 AI policies across 163 UK higher education institutions. The study combines computational keyword analysis with qualitative coding of a stratified sample of 20 policies.
 
 ## Key findings
 
-- **86.6% of policies were computationally classified as education-dominant.** Qualitative analysis tells a different story. Most policies adopt the vocabulary of learning while structurally functioning as compliance instruments.
+- **86.5% of policies were computationally classified as education-dominant.** Qualitative analysis tells a different story. Most policies adopt the vocabulary of learning while structurally functioning as compliance instruments.
 - **Three mechanisms reproduce the deficit model** independently of surface vocabulary: performative education framing, conditional trust, and structural location within misconduct frameworks.
-- **40.5% of UK institutions have no publicly accessible AI policy.** A policy nobody can find serves the institution, not the student.
+- **41.1% of UK institutions have no publicly accessible AI policy.** A policy nobody can find serves the institution, not the student.
 
 ## Read the analysis
 
@@ -19,16 +19,16 @@ This repository contains the complete data, method, and findings from a study of
 data/
   uk_universities.csv          163 institutions with type and nation
   urls.csv                     Policy URLs for all institutions
-  corpus.csv                   97 policies with full text
-  keyword-vocabularies.csv     31 detection + 37 education terms with rationale
+  corpus.csv                   96 policies with full text
+  keyword-vocabularies.csv     34 detection + 43 education terms with rationale
 
 analysis/
-  framing_analysis.csv         Framing ratios and keyword counts for all 97 policies
+  framing_analysis.csv         Framing ratios and keyword counts for all 96 policies
   coding-framework.md          28 codes across 6 categories with definitions
   coded-sample.md              20 policies fully coded at paragraph level
 
 figures/
-  framing_distribution.png     Distribution of framing ratios across 97 policies
+  framing_distribution.png     Distribution of framing ratios across 96 policies
   framing_ratio_by_type.png    Framing ratios by institution type
   framing_by_nation.png        Framing ratios by UK nation
   framing_scatter.png          Scatter plot of detection vs education keywords

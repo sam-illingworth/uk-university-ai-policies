@@ -52,11 +52,11 @@ Codes applied:
 - B3: "We want our students to use AI tools as scaffolding, not as an alternative or complete replacement for learning."
 - C2: Entirely generic. No discipline-specific guidance.
 - C4: "AI is now part of our everyday lives, study and work." Gestural, undeveloped.
-- D2: "We want our colleagues to lead by example, protect transparency and authenticity in assessment design."
+- D2: "We want our colleagues to lead by example, protect transparency and authenticity in assessment design..."
 - E1: Predominantly tells. Blog format is discursive but guidance is directive.
 - E2: Co-creation language is genuinely dialogic.
-- E3: "designed to help staff build confidence and competence in using AI tools effectively and ethically"
-- E6: "students develop their understanding of honest, ethical and responsible conduct"
+- E3: "designed to help staff build confidence and competence in using AI tools effectively and ethically..."
+- E6: "students develop their understanding of honest, ethical and responsible conduct..."
 - E8: "We are no longer asking whether to use AI but how to use it effectively and responsibly."
 
 Overall assessment:
@@ -107,7 +107,7 @@ Nation: Scotland
 Word count: 2,408
 Computational framing ratio: 0.250
 
-Structural location: F3 (standalone AI guidance) with heavy F1 anchoring ("Using any form of AI... without acknowledging that input counts as academic misconduct.")
+Structural location: F3 (standalone AI guidance) with heavy F1 anchoring ("using any form of AI... without acknowledging that input counts as academic misconduct.")
 Primary audience: F5 (student-facing only)
 
 Codes applied:
@@ -119,13 +119,13 @@ Codes applied:
 - C2: No discipline-specific guidance.
 - C4: "You will graduate into an AI-augmented world." Strongest employability framing in the Russell Group set.
 - D3: Do/Don't lists are rigid.
-- D4: "If your lecturers want you to use AI for specific activities, they will provide guidance."
+- D4: "If your lecturers want you to use AI for specific activities, they will provide guidance..."
 - E1: Entirely one-directional. No invitation for student input.
 - E3: "how to use them effectively, ethically, critically, and transparently" — "critically" appears but never developed.
-- E5: "counts as academic misconduct" appears twice. "could lead to disciplinary measures."
+- E5: "counts as academic misconduct" appears twice. "could lead to disciplinary measures..."
 - E6: Learning subordinate to integrity rules throughout.
 - E7: Do/Don't structure is binary.
-- E8: Some nuance in middle sections: "think of it as the first step. The second step is to check for accuracy, critique the outputs."
+- E8: Some nuance in middle sections: "think of it as the first step. The second step is to check for accuracy, critique the outputs..."
 
 Overall assessment:
 - Dominant frame: Detection with educational veneer
@@ -199,7 +199,7 @@ Codes applied:
 Overall assessment:
 - Dominant frame: Detection with educational aspirations
 - Deficit model: Moderate
-- Notes: The 0.329 ratio may slightly overrate education framing. Genuinely good opening principles but body is a regulatory instrument. Most telling line: "students who do not complete assessments appropriately risk not only wasting their own time at university" — learning language weaponised as deterrence. The referencing guidance is notably pragmatic: "Using GenAI/AI tools for research and in preparation of work does not require citation, in the same way that an initial Google search does not require citation." The tension is structural: guiding principles and regulatory body written by different logics.
+- Notes: The 0.329 ratio may slightly overrate education framing. Genuinely good opening principles but body is a regulatory instrument. Most telling line: "students who do not complete assessments appropriately risk not only wasting their own time at university" — learning language weaponised as deterrence. The referencing guidance is notably pragmatic: "Using GenAI/AI tools for research and in preparation of work does not require citation, in the same way that an initial Google search for information does not require citation." The tension is structural: guiding principles and regulatory body written by different logics.
 ```
 
 ### 6. Durham University
@@ -224,7 +224,7 @@ Codes applied:
 - D1: Students given genuine choice, including the right to opt out entirely.
 - D2: Staff flexibility with accountability.
 - D4: Delegated but with guardrails.
-- E2: "We have taken the view that we should not create a context that encourages students to be dishonest." Document explains its reasoning, shares doubts, acknowledges disagreement.
+- E2: "We have also taken the view that we should not create a context that encourages students to be dishonest." Document explains its reasoning, shares doubts, acknowledges disagreement.
 - E4: "You should always ask whose voices are being amplified and whose are being ignored." Also covers environmental impact, labour exploitation, copyright, bias. Genuine critical literacy curriculum.
 - E5: Present but explicitly bounded: "This is, however, only an academic misconduct policy."
 - E6: Learning consequences distinguished from punitive consequences.
@@ -265,7 +265,7 @@ Primary audience: F7 (dual audience)
 Codes applied:
 - A1: AIAS framework supports student agency at higher levels. Level 4: "You may use AI extensively throughout your work... Focus on directing AI to achieve your goals while demonstrating your critical thinking." Level 5: "You should use AI creatively to solve the task, potentially co-designing new approaches with your instructor."
 - A3: At introductory level, students told what AI is.
-- B3: Trust scales with the AIAS level. Level 1: "You must not use AI at any point." Level 3: "You must critically evaluate and modify any AI-generated content."
+- B3: Trust scales with the AIAS level. Level 1: "You must not use AI at any point..." Level 3: "You must critically evaluate and modify any AI-generated content..."
 - C1: AIAS directly linked to assessment design.
 - C2: Generic in that it does not give discipline-specific examples.
 - D2: Staff choose the appropriate level.
@@ -298,7 +298,7 @@ Codes applied:
 - A1: Students positioned as agents in some sections. "Generative AI as mentor" and students encouraged to "reflect on AI feedback."
 - A2: "The use of computer assistance to give the impression that a student has learned more than they have is academic misconduct." Plagiarism policy quoted: "If you use artificial intelligence software to complete the work for you, that will be plagiarism. In some cases, it will reach the level of contract cheating."
 - A3: Directive throughout. "Students should not use Generative AI as the first step in their thinking."
-- B2: "UEA has approved the use of the TurnitIn AI detection software." Staff guidance discusses detection at length.
+- B2: "UEA has approved the use of the TurnitIn AI detection software..." Staff guidance discusses detection at length.
 - B3: Trust contingent on following rules.
 - C1: Staff guidance rich in pedagogical examples from biology and law.
 - C3: "The use of Generative AI is likely to be different across the institution by subject area."
@@ -361,9 +361,9 @@ Structural location: F1 (academic misconduct framework) + F3 (standalone AI guid
 Primary audience: F5 (student-facing only)
 
 Codes applied:
-- A2: "If you are suspected of inappropriately using AI or have failed to acknowledge its use, this will be regarded as academic misconduct."
-- A3: Students told what to do in step-by-step instructions: "Step 1. Save your AI outputs."
-- B2: "You must retain the developmental work (plans, drafts, sketches etc.) that you have produced when working on your assignment so that you can demonstrate, if requested, the process you undertook." Requirement to retain evidence for potential investigation assumes students may need to prove innocence.
+- A2: "If you are suspected of inappropriately using AI or have failed to acknowledge its use, this will be regarded as academic misconduct..."
+- A3: Students told what to do in step-by-step instructions: "Step 1. Save your AI outputs..."
+- B2: "You must retain the developmental work (plans, drafts, sketches etc.) that you have produced when working on your assignment so that you can demonstrate, if requested, the process you undertook..." Requirement to retain evidence for potential investigation assumes students may need to prove innocence.
 - B3: Trust conditional on following acknowledgement steps.
 - C2: Entirely generic. No discipline-specific variation.
 - D3: Fixed rules with no room for interpretation.
@@ -404,7 +404,7 @@ Codes applied:
 - B3: "The use of generative AI tools must always be acknowledged."
 - B4: Trust not explicitly addressed.
 - C2: Entirely generic.
-- C4: Some connection to research practice: "If you plan to publish, check the journal's policies."
+- C4: Some connection to research practice: "If you plan to publish, check the journal's policies..."
 - D3: Imperative language throughout.
 - E1: Entirely didactic.
 - E3: Entire document is about how to use AI tools correctly. CLEAR framework for prompting.
@@ -466,7 +466,7 @@ Codes applied:
 - A2: "You may not use GenAI applications for: producing work that will be assessed."
 - A3: Much informational content.
 - A4: "Thanks to the Student AI Working Group (CCCU staff and students) for their contributions to this guidance."
-- B2: "There is a risk of academic misconduct and plagiarism if you choose not to follow the University guidance."
+- B2: "There is a risk of academic misconduct and plagiarism if you choose not to follow the University guidance..."
 - B3: Trust conditional on declaration and referencing.
 - C1: Specific guidance on different assessment types: written work, presentations, SPaG, image generation, code.
 - C3: Uses AIAS scale.
@@ -506,11 +506,11 @@ Codes applied:
 - B3: Trust conditional on following guidance and acknowledging AI content.
 - C2: Generic, not discipline-specific.
 - C4: "Gen AI and other forms of artificial intelligence are already a part the workplace."
-- D4: "You should always first check with your module leader."
+- D4: "You should always first check with your module leader..."
 - E1: Primarily one-way.
 - E2: Student opinion gathering is genuine dialogic element.
 - E4: Genuine critical literacy: "There is also growing evidence that overreliance on GenAI tools can lead to loss of skills." PGR section asks: "Can Gen AI produced text ever be considered original?"
-- E5: "Being found to have committed academic misconduct has potentially severe consequences."
+- E5: "Being found to have committed academic misconduct has potentially severe consequences..."
 - E6: "We also recognise the potential for these tools to empower you in your own learning."
 - E7: For assessment, essentially binary.
 - E8: PGR section more nuanced, questioning epistemological basis for AI in original research.
@@ -540,7 +540,7 @@ Codes applied:
 - B3: Permission conditional on assignment brief.
 - C1: Separate guidance for coding, presentations, translation, media outputs.
 - C2: Overarching rules are generic.
-- D3: Four-category system (Prohibited, Restricted, Permitted, Required) but default is Prohibited: "If the extent of AI allowed is unclear, you must assume that you are not permitted."
+- D3: Four-category system (Prohibited, Restricted, Permitted, Required) but default is Prohibited: "If the extent of AI allowed is unclear, you must assume that you are not permitted..."
 - D4: Delegated to assignment briefs.
 - E1: FAQ format simulates dialogue but is pre-scripted.
 - E3: Detailed tool-specific guidance (down to Grammarly's "lightbulb" button). Proficiency-as-compliance.
@@ -572,7 +572,7 @@ Codes applied:
 - C2: No disciplinary variation. AI mentioned only as one form of misconduct.
 - D3: Entirely prescriptive. Penalties tabulated by level and offence type.
 - E1: Completely one-way.
-- E5: Almost entirely a punishment framework. Penalties include: marks of zero, module failure, degree reclassification, termination of registration, revocation of award. "There are no time limits to commencing an investigation. Investigations can be commenced even after graduation."
+- E5: Almost entirely a punishment framework. Penalties include: marks of zero, module failure, degree reclassification, termination of registration, revocation of award. "There are no time limits to commencing an investigation... Investigations can be commenced even after graduation..."
 - E7: AI classified alongside "ghost writing services" and "essay mills." No spectrum of engagement.
 - E3: Absent. No guidance on how to use AI.
 - E4: Absent.
@@ -647,7 +647,7 @@ Structural location: F3 (standalone AI guidance, student guide)
 Primary audience: F5 (student-facing only)
 
 Codes applied:
-- A1: "I can select AI tools that are the best fit for my assignments and goals"; "I know when my own judgment is more reliable than the AI-generated results."
+- A1: "I can select AI tools that are the best fit for my assignments and goals"; "I know when my own judgment is more reliable than the AI-generated results..."
 - A2: "If you include content generated by AI and present it as your own work, that could be considered plagiarism."
 - A3: Explanatory sections treat students as needing basic instruction.
 - B3: "AI is best utilised as an assistive tool."
@@ -658,14 +658,14 @@ Codes applied:
 - E1: Predominantly one-way. Instructional throughout.
 - E3: "Learning to use AI thoughtfully, critically evaluate its outputs" — framed as tool proficiency despite borrowing critical vocabulary.
 - E4: "Am I aware of any potential biases in the AI outputs?" Ethical framework approaches critical literacy.
-- E6: "Assessment is designed to help you show how far you've come."
+- E6: "Assessment is designed to help you show how far you've come..."
 - E5: Secondary but present.
 - E8: Four-stage framework (Ethics, Know, Use, Analyse) attempts nuance.
 
 Overall assessment:
 - Dominant frame: Education (with significant detection undertow)
 - Deficit model: Moderate
-- Notes: Interesting case of performative education framing. Four-stage literacy framework appears educational but repeatedly undermines student agency by deferring all decision-making to tutors. "It's always best to double-check with your tutor!" The document uses AI slop constructions and an informal, almost patronising tone. Education framing is real but thin: gives students questions to ask but no authority to answer them differently from tutors. Guidance that looks like empowerment but functions as compliance instruction.
+- Notes: Interesting case of performative education framing. Four-stage literacy framework appears educational but repeatedly undermines student agency by deferring all decision-making to tutors. "It's always best to double-check with your tutor." The document uses AI slop constructions and an informal, almost patronising tone. Education framing is real but thin: gives students questions to ask but no authority to answer them differently from tutors. Guidance that looks like empowerment but functions as compliance instruction.
 ```
 
 ### 19. Courtauld Institute of Art
@@ -764,7 +764,7 @@ Overall assessment:
 | KCL | RG | 0.269 | Education | Balanced | Moderate | Reasonable |
 | UEA | Pre-1992 | 0.148 | Education | Balanced | Moderate | Understates detection |
 | Edinburgh Napier | Post-1992 | 0.248 | Education | Balanced | Moderate | Reasonable |
-| Southampton | RG | 0.077 | Education | Detection | Strong | Misleading (too low) |
+| Southampton | RG | 0.081 | Education | Detection | Strong | Misleading (too low) |
 | Goldsmiths | Pre-1992 | 0.304 | Education | Detection | Strong | Misleading (inflated) |
 | Loughborough | Pre-1992 | 0.400 | Balanced | Detection | Strong | Misleading (inflated) |
 | Coventry | Post-1992 | 0.077 | Education | Detection | Strong | Misleading (too low) |
