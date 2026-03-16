@@ -750,28 +750,35 @@ Overall assessment:
 
 ### Overall coding summary
 
-| Institution | Type | Ratio | Qual. Frame | Deficit Model | Ratio Accuracy |
-|------------|------|-------|-------------|---------------|----------------|
-| Cardiff | RG | 0.035 | Education (thin) | Weak | Misleading (too low) |
-| Southampton | RG | 0.077 | Detection | Strong | Misleading (too low) |
-| Glasgow | RG | 0.250 | Detection w/ veneer | Mod-Strong | Slightly high |
-| KCL | RG | 0.269 | Balanced | Moderate | Reasonable |
-| Liverpool | RG | 0.329 | Detection w/ aspirations | Moderate | Slightly high |
-| Durham | RG | 0.488 | Balanced (genuine) | Weak | Reasonable |
-| Stirling | Pre-1992 | 0.042 | Education | Weak | Accurate |
-| UEA | Pre-1992 | 0.148 | Balanced | Moderate | Understates detection |
-| Goldsmiths | Pre-1992 | 0.304 | Detection | Strong | Misleading (inflated) |
-| Loughborough | Pre-1992 | 0.400 | Detection | Strong | Misleading (inflated) |
-| Edge Hill | Post-1992 | 0.000 | Education (shallow) | Moderate | Accurate direction |
-| Coventry | Post-1992 | 0.077 | Detection | Strong | Misleading (too low) |
-| CCCU | Post-1992 | 0.159 | Education (genuine) | Weak | Understates education |
-| Edinburgh Napier | Post-1992 | 0.248 | Balanced | Moderate | Reasonable |
-| BCU | Post-1992 | 0.546 | Detection | Strong | Accurate |
-| Winchester | Post-1992 | 0.669 | Detection | Strong | Accurate |
-| Arts Plymouth | Specialist | 0.023 | Education | Weak | Accurate direction |
-| Arts Bournemouth | Specialist | 0.129 | Education (performative) | Moderate | Reasonable |
-| Courtauld | Specialist | 0.773 | Detection | Strong | Accurate |
-| Harper Adams | Specialist | 0.773 | Detection | Strong | Accurate |
+| Institution | Type | Ratio | Computational | Qualitative | Deficit Model | Ratio Accuracy |
+|------------|------|-------|---------------|-------------|---------------|----------------|
+| Stirling | Pre-1992 | 0.042 | Education | Education | Weak | Accurate |
+| CCCU | Post-1992 | 0.159 | Education | Education | Weak | Understates education |
+| Arts Plymouth | Specialist | 0.023 | Education | Education | Weak | Accurate direction |
+| Durham | RG | 0.488 | Balanced | Education | Weak | Reasonable |
+| Edge Hill | Post-1992 | 0.000 | Education | Education | Moderate | Accurate direction |
+| Cardiff | RG | 0.035 | Education | Performative | Weak | Misleading (too low) |
+| Glasgow | RG | 0.250 | Education | Performative | Mod-Strong | Slightly high |
+| Liverpool | RG | 0.329 | Education | Performative | Moderate | Slightly high |
+| Arts Bournemouth | Specialist | 0.129 | Education | Performative | Moderate | Reasonable |
+| KCL | RG | 0.269 | Education | Balanced | Moderate | Reasonable |
+| UEA | Pre-1992 | 0.148 | Education | Balanced | Moderate | Understates detection |
+| Edinburgh Napier | Post-1992 | 0.248 | Education | Balanced | Moderate | Reasonable |
+| Southampton | RG | 0.077 | Education | Detection | Strong | Misleading (too low) |
+| Goldsmiths | Pre-1992 | 0.304 | Education | Detection | Strong | Misleading (inflated) |
+| Loughborough | Pre-1992 | 0.400 | Balanced | Detection | Strong | Misleading (inflated) |
+| Coventry | Post-1992 | 0.077 | Education | Detection | Strong | Misleading (too low) |
+| BCU | Post-1992 | 0.546 | Balanced | Detection | Strong | Accurate |
+| Winchester | Post-1992 | 0.669 | Detection | Detection | Strong | Accurate |
+| Courtauld | Specialist | 0.773 | Detection | Detection | Strong | Accurate |
+| Harper Adams | Specialist | 0.773 | Detection | Detection | Strong | Accurate |
+
+**Summary: 5 genuinely educational, 4 performatively educational, 3 balanced, 8 detection-oriented.**
+
+- **Education (5):** Stirling, Canterbury Christ Church, Arts University Plymouth, Durham, Edge Hill. These policies are structurally educational. Durham is reclassified from "balanced" because its pedagogical depth, explicit refusal to police "unwise" behaviour, and critical literacy resources make it functionally educational despite its misconduct framework location.
+- **Performative (4):** Cardiff, Glasgow, Liverpool, Arts University Bournemouth. These policies use education vocabulary while structurally functioning as compliance or detection instruments. Glasgow and Liverpool are reclassified from "detection with veneer/aspirations" because their surface framing is educational even though their operational function is not.
+- **Balanced (3):** King's College London, University of East Anglia, Edinburgh Napier University.
+- **Detection (8):** Southampton, Goldsmiths, Loughborough, Coventry, Birmingham City, Winchester, Courtauld, Harper Adams.
 
 ### Key themes
 
