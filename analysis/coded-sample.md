@@ -1,4 +1,4 @@
-# Qualitative Coding: Stratified Sample (n=20)
+# Qualitative Coding: Stratified Sample (n=19)
 
 Coded 16 February 2026. Computational framing ratios from keyword analysis. Qualitative coding against the framework in `coding-framework.md`.
 
