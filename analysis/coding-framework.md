@@ -80,7 +80,7 @@ Selection criteria: purposive sampling informed by computational framing ratios.
 3. A paragraph can receive multiple codes
 4. Record illustrative quotes for each code applied
 5. After initial coding, review codes for consistency
-6. Calculate inter-coder reliability if a second coder is available (Stephen Gow)
+6. Calculate inter-coder reliability if a second coder is available
 
 ## Recording Template
 
