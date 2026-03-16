@@ -13,14 +13,9 @@ This repository contains the complete data, method, and findings from a study of
 ## Read the analysis
 
 - **Substack post:** [UK Universities Say They Support Students With AI. The Evidence Says Otherwise.](https://theslowai.substack.com/p/uk-university-ai-policies)
-- **Supplementary material:** [`paper/supplementary-material.md`](paper/supplementary-material.md)
-
 ## Repository structure
 
 ```
-paper/
-  supplementary-material.md    Supplements A-D (keyword vocabularies, coding framework detail)
-
 data/
   uk_universities.csv          163 institutions with type and nation
   urls.csv                     Policy URLs for all institutions
