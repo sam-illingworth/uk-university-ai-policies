@@ -2,7 +2,9 @@
 
 The first systematic analysis of how UK universities frame artificial intelligence in institutional policy.
 
-This repository contains the complete data, method, and findings from a study of 96 AI policies across 163 UK higher education institutions. The study combines computational keyword analysis with qualitative coding of a stratified sample of 20 policies.
+This repository contains the complete data, method, and findings from a study of 96 AI policies across 163 UK higher education institutions. The study combines computational keyword analysis with qualitative coding of a stratified sample of 19 policies (the author's own institution, Edinburgh Napier University, was excluded from the qualitative sample to avoid a conflict of interest but remains in the computational analysis).
+
+**Note on URLs:** Policy URLs were collected on 16 February 2026. Institutional AI policies are living documents. Some URLs may have changed since scraping, and some institutions may have additional AI guidance available through other channels.
 
 ## Key findings
 

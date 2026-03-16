@@ -21,13 +21,12 @@ Purposive sampling across the framing spectrum within each institution type, wit
 | 11 | Edge Hill University | Post-1992 | 0.000 | 956 | England |
 | 12 | Coventry University | Post-1992 | 0.074 | 627 | England |
 | 13 | Canterbury Christ Church University | Post-1992 | 0.150 | 5,629 | England |
-| 14 | Edinburgh Napier University | Post-1992 | 0.228 | 3,238 | Scotland |
-| 15 | Birmingham City University | Post-1992 | 0.545 | 3,808 | England |
-| 16 | University of Winchester | Post-1992 | 0.669 | 8,941 | England |
-| 17 | Arts University Plymouth | Specialist | 0.022 | 1,027 | England |
-| 18 | Arts University Bournemouth | Specialist | 0.090 | 1,827 | England |
-| 19 | Courtauld Institute of Art | Specialist | 0.791 | 3,251 | England |
-| 20 | Harper Adams University | Specialist | 0.782 | 6,219 | England |
+| 14 | Birmingham City University | Post-1992 | 0.545 | 3,808 | England |
+| 15 | University of Winchester | Post-1992 | 0.669 | 8,941 | England |
+| 16 | Arts University Plymouth | Specialist | 0.022 | 1,027 | England |
+| 17 | Arts University Bournemouth | Specialist | 0.090 | 1,827 | England |
+| 18 | Courtauld Institute of Art | Specialist | 0.791 | 3,251 | England |
+| 19 | Harper Adams University | Specialist | 0.782 | 6,219 | England |
 
 ---
 
@@ -486,42 +485,7 @@ Overall assessment:
 - Notes: The 0.159 ratio understates the educational depth. This is one of the most genuinely pedagogical documents in the corpus. Explicitly names its approach as "educative, rather than punitive." Addresses sustainability, labour ethics, inequity of access, and wellbeing. Student working group and feedback form suggest dialogic intent. Misconduct language still present but not dominant. The critical question is whether students experience this as educational or as an elaborate set of instructions.
 ```
 
-### 14. Edinburgh Napier University
-
-```
-Institution: Edinburgh Napier University
-Type: Post-1992
-Nation: Scotland
-Word count: 3,238
-Computational framing ratio: 0.248
-
-Structural location: F2 (study skills)
-Primary audience: F5 (student-facing)
-
-Codes applied:
-- A1: "The guidance on this page is intended to help you to understand these tools so that you can make informed decisions about whether or not to use them."
-- A2: "If you use an AI content generation tool as part of your academic work, you need to be very careful that you do not commit Academic Misconduct by submitting work that is not your own." And: "Submitting work which is not your own is plagiarism and falsification i.e. cheating."
-- A4: "We have been actively engaged in gathering students' opinions on Gen AI since 2023, and will continue to do so."
-- B2: Video transcript: "if that is not the case, then it could be quite serious consequences for your studies or maybe even your professional career."
-- B3: Trust conditional on following guidance and acknowledging AI content.
-- C2: Generic, not discipline-specific.
-- C4: "Gen AI and other forms of artificial intelligence are already a part the workplace."
-- D4: "You should always first check with your module leader..."
-- E1: Primarily one-way.
-- E2: Student opinion gathering is genuine dialogic element.
-- E4: Genuine critical literacy: "There is also growing evidence that overreliance on GenAI tools can lead to loss of skills." PGR section asks: "Can Gen AI produced text ever be considered original?"
-- E5: "Being found to have committed academic misconduct has potentially severe consequences..."
-- E6: "We also recognise the potential for these tools to empower you in your own learning."
-- E7: For assessment, essentially binary.
-- E8: PGR section more nuanced, questioning epistemological basis for AI in original research.
-
-Overall assessment:
-- Dominant frame: Balanced (tilting toward detection)
-- Deficit model: Moderate
-- Notes: The 0.248 ratio feels approximately right. Document genuinely tries to balance education and detection. Opens with measured, conversational tone. Position statement names collective responsibilities and ethical implications. Gathers student input. But assessment section reverts to prohibition and punishment. PGR section is genuinely thoughtful, raising epistemological questions. The tension between wanting to be educational and needing to regulate is productive and honest.
-```
-
-### 15. Birmingham City University
+### 14. Birmingham City University
 
 ```
 Institution: Birmingham City University
@@ -763,7 +727,6 @@ Overall assessment:
 | Arts Bournemouth | Specialist | 0.129 | Education | Performative | Moderate | Reasonable |
 | KCL | RG | 0.269 | Education | Balanced | Moderate | Reasonable |
 | UEA | Pre-1992 | 0.148 | Education | Balanced | Moderate | Understates detection |
-| Edinburgh Napier | Post-1992 | 0.248 | Education | Balanced | Moderate | Reasonable |
 | Southampton | RG | 0.081 | Education | Detection | Strong | Misleading (too low) |
 | Goldsmiths | Pre-1992 | 0.304 | Education | Detection | Strong | Misleading (inflated) |
 | Loughborough | Pre-1992 | 0.400 | Balanced | Detection | Strong | Misleading (inflated) |
@@ -773,11 +736,13 @@ Overall assessment:
 | Courtauld | Specialist | 0.773 | Detection | Detection | Strong | Accurate |
 | Harper Adams | Specialist | 0.773 | Detection | Detection | Strong | Accurate |
 
-**Summary: 5 genuinely educational, 4 performatively educational, 3 balanced, 8 detection-oriented.**
+**Summary (19 policies): 5 genuinely educational, 4 performatively educational, 2 balanced, 8 detection-oriented.**
+
+Note: Edinburgh Napier University was excluded from the qualitative sample because the author is employed there. The computational analysis includes Edinburgh Napier; the qualitative coding does not.
 
 - **Education (5):** Stirling, Canterbury Christ Church, Arts University Plymouth, Durham, Edge Hill. These policies are structurally educational. Durham is reclassified from "balanced" because its pedagogical depth, explicit refusal to police "unwise" behaviour, and critical literacy resources make it functionally educational despite its misconduct framework location.
 - **Performative (4):** Cardiff, Glasgow, Liverpool, Arts University Bournemouth. These policies use education vocabulary while structurally functioning as compliance or detection instruments. Glasgow and Liverpool are reclassified from "detection with veneer/aspirations" because their surface framing is educational even though their operational function is not.
-- **Balanced (3):** King's College London, University of East Anglia, Edinburgh Napier University.
+- **Balanced (2):** King's College London, University of East Anglia.
 - **Detection (8):** Southampton, Goldsmiths, Loughborough, Coventry, Birmingham City, Winchester, Courtauld, Harper Adams.
 
 ### Key themes
