@@ -518,7 +518,7 @@ Overall assessment:
 - Notes: The 0.546 ratio correctly identifies this as detection-heavy. One of the most surveillance-oriented policies: AI detection software, screensharing and webcams, students unable to view own AI scores, default-to-prohibited. Educational content instrumentalised: "brainstorm ideas" is permitted not for learning but for staying within rules. The concern is about the threshold at which AI use becomes detectable misconduct, not about the student's learning. Performative education wrapping genuine surveillance.
 ```
 
-### 16. University of Winchester
+### 15. University of Winchester
 
 ```
 Institution: University of Winchester
@@ -564,7 +564,7 @@ Overall assessment:
 
 ## Specialist (4 policies)
 
-### 17. Arts University Plymouth
+### 16. Arts University Plymouth
 
 ```
 Institution: Arts University Plymouth
@@ -598,7 +598,7 @@ Overall assessment:
 - Notes: The 0.023 ratio undersells this policy. Genuinely one of the more progressive and dialogic policies in the corpus. Positions students as creative agents, names specific opportunities for student voice, connects AI to disciplinary practice. "Whether or not it can be used ethically and responsibly" does not presuppose the answer, which is rare. For 1,027 words, remarkably substantive.
 ```
 
-### 18. Arts University Bournemouth
+### 17. Arts University Bournemouth
 
 ```
 Institution: Arts University Bournemouth
@@ -632,7 +632,7 @@ Overall assessment:
 - Notes: Interesting case of performative education framing. Four-stage literacy framework appears educational but repeatedly undermines student agency by deferring all decision-making to tutors. "It's always best to double-check with your tutor." The document uses AI slop constructions and an informal, almost patronising tone. Education framing is real but thin: gives students questions to ask but no authority to answer them differently from tutors. Guidance that looks like empowerment but functions as compliance instruction.
 ```
 
-### 19. Courtauld Institute of Art
+### 18. Courtauld Institute of Art
 
 ```
 Institution: Courtauld Institute of Art
@@ -663,7 +663,7 @@ Overall assessment:
 - Notes: The 0.773 ratio is accurate and may be generous. A pure academic misconduct document in which AI appears as an example of plagiarism alongside "Copying" and "Incorrect referencing." Zero educational framing. For a specialist art institution, the absence of any engagement with AI's implications for creative or scholarly practice is striking. Deficit model in its purest form.
 ```
 
-### 20. Harper Adams University
+### 19. Harper Adams University
 
 ```
 Institution: Harper Adams University
