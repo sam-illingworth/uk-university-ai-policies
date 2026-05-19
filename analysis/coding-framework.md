@@ -2,9 +2,9 @@
 
 ## Sampling Strategy
 
-Stratified sample of ~20 policies:
+Stratified sample of ~19 policies:
 - 6 Russell Group
-- 6 Post-1992
+- 5 Post-1992
 - 4 Pre-1992 non-Russell Group
 - 4 Specialist/other
 
