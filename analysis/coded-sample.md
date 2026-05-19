@@ -384,7 +384,7 @@ The computational ratio and qualitative coding diverge most sharply where educat
 
 ---
 
-## Post-1992 (6 policies)
+## Post-1992 (5 policies)
 
 ### 11. Edge Hill University
 
