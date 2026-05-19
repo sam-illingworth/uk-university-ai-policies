@@ -14,9 +14,6 @@ This repository contains the complete data, method, and findings from a study of
 - **Three mechanisms reproduce the deficit model** independently of surface vocabulary: performative education framing, conditional trust, and structural location within misconduct frameworks.
 - **41.1% of UK institutions have no publicly accessible AI policy.** A policy nobody can find serves the institution, not the student.
 
-## Read the analysis
-
-- **Substack post:** [UK Universities Say They Support Students With AI. The Evidence Says Otherwise.](https://theslowai.substack.com/p/uk-university-ai-policies)
 ## Repository structure
 
 ```
